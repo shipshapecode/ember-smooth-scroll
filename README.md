@@ -1,5 +1,7 @@
 # ember-smooth-scroll
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/shipshapecode/ember-smooth-scroll.svg)](https://greenkeeper.io/)
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
